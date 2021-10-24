@@ -1,0 +1,7 @@
+.git
+.idea
+.svn
+.vscode
+.tuxt
+node_modules/
+dist/

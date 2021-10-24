@@ -1,0 +1,14 @@
+{
+  "name": "<%-name%>",
+  "version": "1.0.0",
+  "description": "<%-description%>",
+  "private": true,
+  "scripts": {
+    "dev": "tuxt dev",
+    "build": "tuxt build"
+  },
+  "author": "<%-author%>",
+  "dependencies": {
+    "tuxt": "1.0.0"
+  }
+}
