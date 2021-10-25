@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EcanTech/create-tuxt-app.git"
+    "url": "git+https://github.com/tuxt-js/create-tuxt-app.git"
   },
   "keywords": [
     "create",
@@ -17,12 +17,13 @@
   "author": "EcanTech",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/EcanTech/create-tuxt-app/issues"
+    "url": "https://github.com/tuxt-js/create-tuxt-app/issues"
   },
-  "homepage": "https://github.com/EcanTech/create-tuxt-app#readme",
+  "homepage": "https://github.com/tuxt-js/create-tuxt-app#readme",
   "dependencies": {
     "commander": "^7.2.0",
     "cross-spawn": "^7.0.3",
+    "download": "^8.0.0",
     "ejs": "^3.1.6",
     "fs-extra": "^9.1.0",
     "inquirer": "^8.0.0",
